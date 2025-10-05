@@ -61,4 +61,22 @@ Further testing using **spectro-radiometric calibration** and **material samplin
 
 ---
 
-## 📂 Repository Structure
+## 📁 Repository Layout
+
+| Folder | Description |
+|---------|-------------|
+| `scripts/` | Python scripts for each analysis stage (1–12). |
+| `reports/` | Text reports summarizing results from each stage. |
+| `output/` | Final composite images, spectrograms, and summaries. |
+| `data/raw_videos/` | Original artifact videos (or external links). |
+| `results/` | Intermediate data: enhanced frames, isolated symbols, etc. |
+
+### 🔁 Workflow Summary
+Each stage builds upon the previous:
+1. **Frame Extraction & Enhancement** → Symbol detection  
+2. **Clustering & Refinement** → Symbol mapping  
+3. **Semantic Analysis & Material ID** → Spectral and physical modeling  
+4. **Field Mapping & Coherence Tests** → Detect possible structured energy fields  
+
+Final outputs (reports + visualizations) are under `reports/` and `output/`.
+
