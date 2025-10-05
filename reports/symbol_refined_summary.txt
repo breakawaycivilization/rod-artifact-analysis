@@ -1,0 +1,7 @@
+Refined Symbol Cluster Summary
+
+Cluster 3: 1622 instances
+Cluster 4: 1139 instances
+Cluster 2: 999 instances
+Cluster 1: 1325 instances
+Cluster 0: 1411 instances

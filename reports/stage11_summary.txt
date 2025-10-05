@@ -1,0 +1,18 @@
+Stage 11 — Symbol ↔ Energy Correlation
+
+Frames analyzed: 136
+Symbols analyzed: 2
+Global brightness mean ±σ: 98.13 ± 31.68
+Global texture mean ±σ:    1.27 ± 0.69
+
+[star6] n=2  ⟨z_text⟩=0.40, p=0.425  |  ⟨z_bright⟩=0.09, p=0.105
+
+Decay fit (global brightness vs. frame):
+  A=-11814.474314177278, tau_frames=52686.307564906165, C=11897.482738850547
+
+Top FFT peaks (Hz, amplitude):
+  4.85 Hz  |  1155.32
+  4.19 Hz  |  912.60
+  0.88 Hz  |  895.74
+  7.72 Hz  |  853.37
+  0.22 Hz  |  850.46

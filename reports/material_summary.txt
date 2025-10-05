@@ -1,0 +1,14 @@
+Material/Coating Inference (heuristic)
+======================================
+
+Top votes:
+  - polished_aluminum: 65.91
+  - titanium_with_oxide: 28.82
+  - stainless_or_nickel_chrome: 13.47
+  - anodized_aluminum_clear: 11.85
+  - gloss_coated_polymer: 10.93
+
+Notes:
+- Results are heuristic; confirm with XRF if possible.
+- Specular sharpness trends + u'v' drift help distinguish polished Al vs NiCr vs Ti-oxide.
+- FFT peaks around 50/60 Hz suggest mains flicker; other stable peaks may indicate internal modulation.

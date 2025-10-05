@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-10-04">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="file" type="string" />
+      <attribute id="1" title="cls" type="string" />
+      <attribute id="2" title="score" type="double" />
+      <attribute id="3" title="frame" type="long" />
+      <attribute id="4" title="x" type="long" />
+      <attribute id="5" title="y" type="long" />
+    </attributes>
+    <nodes>
+      <node id="n0" label="n0">
+        <attvalues>
+          <attvalue for="0" value="symbol_0060_341_188.jpg" />
+          <attvalue for="1" value="star6" />
+          <attvalue for="2" value="0.4924" />
+          <attvalue for="3" value="60" />
+          <attvalue for="4" value="341" />
+          <attvalue for="5" value="188" />
+        </attvalues>
+      </node>
+      <node id="n1" label="n1">
+        <attvalues>
+          <attvalue for="0" value="symbol_0127_30_136.jpg" />
+          <attvalue for="1" value="star6" />
+          <attvalue for="2" value="0.487" />
+          <attvalue for="3" value="127" />
+          <attvalue for="4" value="30" />
+          <attvalue for="5" value="136" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges />
+  </graph>
+</gexf>

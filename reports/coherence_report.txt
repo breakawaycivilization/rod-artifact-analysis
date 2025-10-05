@@ -1,0 +1,5 @@
+=== Field Coherence Report ===
+Frames analyzed: 136
+Average energy: 99.60
+Energy variance: 879.5534
+Average brightness variance: 5905.64

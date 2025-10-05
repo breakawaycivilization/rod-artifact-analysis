@@ -1,0 +1,14 @@
+Symbol Cluster Summary:
+
+Cluster 3: 15514 instances
+Cluster 0: 2494 instances
+Cluster 1: 1386 instances
+Cluster 4: 13567 instances
+Cluster 2: 3917 instances
+
+Possible Correlations:
+Cluster 0: △ Triangle / Delta / Fire
+Cluster 1: ⚡ Lines / Frequency
+Cluster 2: ✡ Star / Intersect
+Cluster 3: 🌀 Spiral / Energy Flow
+Cluster 4: ◯ Circle / Magnetic Field

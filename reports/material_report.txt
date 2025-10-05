@@ -1,0 +1,10 @@
+🧪 Material & Spectral Signature Scan
+
+Frames analyzed: 136
+Brightness mean ±σ: 98.13 ± 31.68
+Texture mean ±σ: 5.09 ± 3.18
+Detected 4 anomalous frames (>3σ):
+  Frame 25: Brightness z=4.03, Texture z=-1.03
+  Frame 80: Brightness z=0.52, Texture z=3.07
+  Frame 124: Brightness z=0.42, Texture z=3.40
+  Frame 125: Brightness z=0.43, Texture z=3.10

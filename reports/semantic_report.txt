@@ -1,0 +1,7 @@
+🔮 Symbol Correlation Report
+
+ProtoCuneiform: 54.3% similarity
+Runic: 91.8% similarity
+Ogham: 77.6% similarity
+Enochian: 68.9% similarity
+Alchemical: 40.1% similarity
